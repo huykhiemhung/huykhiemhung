@@ -16,7 +16,7 @@ getgenv().petsGoConfig = {
     WEBHOOK_URL = "https://discord.com/api/webhooks/1336292908344807434/KkiKk-uuRNj-oRfNacKJ31gw8uGwZRiGwvUOQGskjs6Wp_5-LEZAUlYFyeXwnOzBd4Gb",
     MAILING_WEBHOOK_URL = "https://discord.com/api/webhooks/1336295855657062431/lWwQlp10lntP9iiCp-d1YXwtg6-pypkRFOGt7sO2gxC8WxMJRxxH5R6y3AH_3hE4_TjI",
     DISCORD_ID = "1174567331612065792",
-    WEBHOOK_ODDS = 100000000, -- Minimum Pet Odds To Trigger Webhook
+    WEBHOOK_ODDS = 1000000000, -- Minimum Pet Odds To Trigger Webhook
 
     DIAMOND_EGG = true,  -- true = Diamond Egg, false = F2P Egg
     MINE_ALL_ORES = true,  -- true = all ore, false = runic & event ore
